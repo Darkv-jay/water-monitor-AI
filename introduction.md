@@ -77,5 +77,7 @@ The Making and Unmaking of Poverty
 our Hounrable prime minister started a theme SABKA SATH SABKA VIKAS. under in this  theme i started a project to innovate this theme.
 in today's time there are 70% water is conatminated and need to be filtered by RO'S and by other purification systems.
 those pepople are liviing on slum areas below the line of poverty level and other labours like the ricksahw drivers workwers of factories they can't afford the bissleries bottle and other water filtering machine....so our aim of this project is making water clean and locting the contamination of water area wise automatically by detecting the bacterias present in the water we can stop the 60% illness caused by the contaminated water. And through by this project we can assure to the people now the water is 100% contamination free 100% safe to use without any filtering process....through by this now all the peoples labours and workers can drink water by opening tap located anywhere. 
+
+![fluoride-cancer-diseases-drinking-arsenic-falling-victim_4752cf8e-543d-11e8-ae13-d985d3701f4e](https://user-images.githubusercontent.com/60239164/73449711-c604b800-4389-11ea-8187-b9d7d1f00592.jpg)
                            
 

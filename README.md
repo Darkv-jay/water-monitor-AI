@@ -50,7 +50,8 @@ capacity. The assessment of quantity of water used in various activities was a d
 task, but all the efforts were put in to assure the accuracy of data. 
 
  A Deterministic Relationship between Water Availability, Health,
-                   Educational Attainments and Earnings. 
+ Educational Attainments and Earnings. 
+
 ![water chart](https://user-images.githubusercontent.com/60239164/73443095-0e1cde00-437c-11ea-9ec1-c49aa3435421.jpg)
 
 The importance of supply/availability of clean water in economic and health spheres has
@@ -69,7 +70,10 @@ population lives in poverty and consumes uncleaned water, to help sizeable propo
 the population move above poverty line. 
 
 The Making and Unmaking of Poverty
+
 ![the making and unmaking of poverty](https://user-images.githubusercontent.com/60239164/73443610-0873c800-437d-11ea-88ac-31bde42f3490.jpg)
+
+
 our Hounrable prime minister started a theme SABKA SATH SABKA VIKAS. under in this  theme i started a project to innovate this theme.
 in today's time there are 70% water is conatminated and need to be filtered by RO'S and by other purification systems.
 those pepople are liviing on slum areas below the line of poverty level and other labours like the ricksahw drivers workwers of factories they can't afford the bissleries bottle and other water filtering machine....so our aim of this project is making water clean and locting the contamination of water area wise automatically by detecting the bacterias present in the water we can stop the 60% illness caused by the contaminated water. And through by this project we can assure to the people now the water is 100% contamination free 100% safe to use without any filtering process....through by this now all the peoples labours and workers can drink water by opening tap located anywhere. 

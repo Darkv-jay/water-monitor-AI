@@ -51,7 +51,7 @@ task, but all the efforts were put in to assure the accuracy of data.
 
         A Deterministic Relationship between Water Availability, Health,
                    Educational Attainments and Earnings. 
-![water chart](https://user-images.githubusercontent.com/60239164/73443095-0e1cde00-437c-11ea-9ec1-c49aa3435421.jpg)
+              ![water chart](https://user-images.githubusercontent.com/60239164/73443095-0e1cde00-437c-11ea-9ec1-c49aa3435421.jpg)
 
 The importance of supply/availability of clean water in economic and health spheres has
 been the main motivating factor for the present study. It is estimates that about 70% of
@@ -67,4 +67,7 @@ poverty and penury (see Fig.2). Clean, adequate and regular water supply, theref
 extremely important in countries like South Asia, more so in India where a large section of
 population lives in poverty and consumes uncleaned water, to help sizeable proportion of
 the population move above poverty line. 
+
+                          The Making and Unmaking of Poverty
+                           
 

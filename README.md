@@ -2,6 +2,7 @@
 # जलस्य रक्षा भवेतस्माकं प्रथमं कर्तव्य: |
 
 # सदुपयोगेण जीवनं भविष्यति भव्य
+![{06A8D3D1-F12C-45DF-8A9C-BFA710BDAAC5} png](https://user-images.githubusercontent.com/60239164/73448521-0ca4e300-4387-11ea-94ab-1240e3b566b3.jpg)
 
 Our goal is to build a machine learning algorithm that can detect contamination images in real time, this way we can build your own AI based contamination classification device.
 

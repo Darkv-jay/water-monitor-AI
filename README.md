@@ -1,6 +1,7 @@
 # water-monitor-AI
 Our goal is to build a machine learning algorithm that can detect contamination images in real time, this way we can build your own AI based contamination classification device.
 1. Introduction
+
 In years to come, water, the need of life, is possibly to pose greatest challenge on account
 of its increased demand with population rise, economic development, and shrinking
 supplies due to over exploitation and pollution. In India, with development, the demand of
@@ -21,6 +22,7 @@ presented in Section IV, and the last Section presents summary and conclusions o
 study
 
 2. Materials and Methods
+
 The household survey, to find out the consumption, availability, access and methods
 adopted for conservation of water in domestic households in seven major Indian cities,
 Delhi, Gr. Mumbai, Kolkata, Hyderabad, Kanpur, Ahmedabad and Madurai, was
@@ -47,6 +49,22 @@ amount of water used in toilet was assessed by volume of bucket used, and flush 
 capacity. The assessment of quantity of water used in various activities was a difficult
 task, but all the efforts were put in to assure the accuracy of data. 
 
- A Deterministic Relationship between Water Availability, Health,
-Educational Attainments and Earnings. 
+        A Deterministic Relationship between Water Availability, Health,
+                   Educational Attainments and Earnings. 
+![water chart](https://user-images.githubusercontent.com/60239164/73443095-0e1cde00-437c-11ea-9ec1-c49aa3435421.jpg)
+
+The importance of supply/availability of clean water in economic and health spheres has
+been the main motivating factor for the present study. It is estimates that about 70% of
+diseases in human being are due to consumption of uncleaned water. The access to water
+also has huge cost on educational attainments and incomes of individuals/households.
+ a large share of population from the poorer section of the society (both in rural and urban
+areas) loses their precious time collecting water for their daily needs. This deprives them
+from daily wages crucial for their economic sustenance (see Fig.1). Further, recurring
+health expenditures due to consumption of uncleaned water and low wages due to lower
+skills keep them in vicious circle of poverty. While education helps to improve their
+earnings, the health expenditures and loss of time/wages due to illness keep them in
+poverty and penury (see Fig.2). Clean, adequate and regular water supply, therefore, are
+extremely important in countries like South Asia, more so in India where a large section of
+population lives in poverty and consumes uncleaned water, to help sizeable proportion of
+the population move above poverty line. 
 

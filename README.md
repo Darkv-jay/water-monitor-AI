@@ -22,5 +22,4 @@ WITH IN COLLABRATION OF PETER MA.
 SPECIAL THANKS TO MY TEAM
 # PARAS KHORWAL, NISHA SHARMA, SHUBHAM
 BEING ACTIVELY CORDINATING IN THIS PROJECT
-[![Watch the video](![download](https://user-images.githubusercontent.com/60239164/73535965-d92b8c80-444a-11ea-9eea-d38e2ba05b5e.png)
-)](https://youtu.be/ewCeseNZOqA)
+

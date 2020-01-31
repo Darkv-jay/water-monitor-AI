@@ -1,5 +1,7 @@
 # our project AIM 
-#                         GIVE CLEAN WATER CHANGE LIVES FOREVER
+# GIVE CLEAN WATER CHANGE LIVES FOREVER
+CLEAN WATER FIGHTS POVERTY-CLEANING DRINKING WATER
+
 ![give clean water](https://user-images.githubusercontent.com/60239164/73517245-f2b7de80-4420-11ea-983b-d4366c3c83cc.jpg)
 
 our Hounrable prime minister started a theme SABKA SATH SABKA VIKAS. 
